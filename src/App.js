@@ -9,7 +9,7 @@ function App() {
   const [personajes, setPersonajes] = useState([]);
 
   const handleBuscar = (terminoABuscar) => {
-    setPersonaje(terminoABuscar);
+    setPersonaje(terminoABuscar)
   };
 
   return (
