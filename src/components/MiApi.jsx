@@ -2,7 +2,6 @@ import Button from "react-bootstrap/Button";
 import React, { useEffect, useState } from "react";
 import { Card, Container } from "react-bootstrap";
 import { BsSortAlphaDown } from "react-icons/bs";
-import { MdOutlineCleaningServices } from "react-icons/md";
 
 const MiApi = (props) => {
   const { personaje, setPersonaje } = props;
