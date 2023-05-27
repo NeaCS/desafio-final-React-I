@@ -6,3 +6,6 @@ Consta de una barra de búsqueda y cards de la librería react-bootstrap para mo
 
 
 ## VIDEO
+Aquí el link al video con la presentación:
+
+https://youtu.be/4f4YfOhCvp8
